@@ -1,1 +1,0 @@
-Este proyecto trata de una pagina web relacionada con la salud y el fitness. Se encuentra la página principal y luego de ella salen otras para ampliar la información como la de descanso, alimentacion, consejos... etc.
