@@ -3,13 +3,6 @@
 ## Descripción 📖
 Este proyecto es una página web interactiva que proporciona información y consejos sobre bienestar físico, alimentación saludable, descanso y ejercicios recomendados. Incluye un menú de navegación con secciones dedicadas a cada tema, además de enlaces a páginas adicionales con información más detallada.
 
-## Capturas de Pantalla 📸
-
-### Menú de navegación
-![Menú](micarpeta/menu.png)
-
-### Sección de Bienestar y Fitness
-![Bienestar y Fitness](micarpeta/bienestarysalud.png)
 
 ## Características principales 🌟
 ✅ Diseño responsivo y atractivo.  
